@@ -1,0 +1,16 @@
+1. Describe the differences in fixed, fluid, adaptive, and responsive layouts
+    A. Fixed layouts are always the same, no matter what. Fluid layouts will
+        shrink until it overlaps. Adaptive layouts allows the content to fit
+        the screen better using media queries by snapping. Responsive layouts
+        combines fixed, fluid, and adaptive together for a better experience.
+
+2. Implement media queries in a project
+    A. See portfollio.css
+
+3. Describe how using scalable units for font sizes impacts accessibility and
+    why designing accessible web pages is important
+    A. Designing accessible web pages is important because someone who is blind
+        needs a screen reader and someone who needs larger text can still view the
+        site. Using scalable units for font sizes impacts accessibility because
+        it can allow browsers that are setup for larger text or smaller text have
+        a better chance of being seen by the person viewing it.
